@@ -1,6 +1,6 @@
 # Natural Language Processing Specialization
 
-### [NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+### [NLP Specialization by DeepLearning.AI](https://www.coursera.org/specializations/natural-language-processing)
 #### Quick list of specific use cases implemented in each course:
 
 #### Course 1 - NLP with Classification and Vector Spaces
