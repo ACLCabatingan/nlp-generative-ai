@@ -7,4 +7,4 @@
 * Parameter Efficient Fine-Tuning with LoRA and Soft Prompts
 * Fine-Tuning with RLHF
 
-### [TODO: Coursera Certificate](test)
+### [Coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/3Q4YRNWBTXV9)
